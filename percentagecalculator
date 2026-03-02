@@ -15,10 +15,8 @@ using namespace std;
  }
  
  float percentage(float marks){
- 	for(i=0;i<9;i++){
-	 
  	return (marks/100)*100;
- }}
+ }
  
  void display(string name, int roll, float percentagetotal){
  	cout<<"name:"<<name<<endl;
